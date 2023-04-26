@@ -3,7 +3,7 @@ In this project we will use keras and tensorflow to build, train and test a CNN 
 It is a supervised learning problem, specifically a multiclass classification problem.
 
 
-#<u>Plan of Attack</u>
+# <u>Plan of Attack</u>
 1. loading the data from kaagle
 2. load labels csv for labels that contain image ID and breed
 3. checking the breed count
